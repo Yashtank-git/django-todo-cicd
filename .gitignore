@@ -59,3 +59,4 @@ target/
 .DS_Store
 remoting/
 remoting.jar
+workspace/
